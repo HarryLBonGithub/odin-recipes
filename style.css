@@ -11,3 +11,12 @@ img {
     text-align: center;
 
 }
+
+.main-menu {
+    text-align: center;
+    list-style-type: none;
+}
+
+.ingredients {
+    background: grey;
+}
